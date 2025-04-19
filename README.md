@@ -1,8 +1,8 @@
-# IoT Monitoring Demo Website
+# Monitoring Demo Website
 
 ## Project Goal
 
-This project is a demo website to **simulate and monitor IoT devices**. These virtual devices generate **fake data** (e.g., temperature or speed), and the site displays their status, history, and errors in a visual format.
+This project is a demo website to **simulate and monitor devices**. These virtual devices generate **fake data** (e.g., temperature or speed), and the site displays their status, history, and errors in a visual format.
 
 ---
 
